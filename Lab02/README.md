@@ -1,8 +1,8 @@
 # Lab 02 - Quản lý mảng số nguyên bằng Console
 
 ## Thông tin sinh viên
-- Họ tên: Võ Ngọc Tuyết Nhung
-- MSSV: 49.01.103.058
+- Họ tên: Lê Thị Kim Loan
+- MSSV: 49.01.103.045
 - Lớp: 49.01.SPTIN.A
 
 ## Mô tả
