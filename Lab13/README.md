@@ -3,7 +3,9 @@
 ## 1. Thông tin sinh viên
 
 Họ và tên: Lê Thị Kim Loan
+
 MSSV: 49.01.103.045
+
 Lớp: 49.01.SPTIN.A
 
 ## 2. Mô tả
