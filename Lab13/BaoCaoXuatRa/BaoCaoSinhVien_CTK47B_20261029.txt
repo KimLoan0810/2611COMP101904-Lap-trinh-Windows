@@ -1,0 +1,16 @@
+﻿BÁO CÁO CNTT K47B - TẤT CẢ
+Ngày xuất: 29/10/2026 20:31
+Điều kiện: Lớp = CNTT K47B; Kết quả = Tất cả; Từ khóa = (trống)
+
+------------------------------------------------------------------
+| STT | Lớp       | Mã SV | Họ tên         | Điểm TB | Kết quả   |
+------------------------------------------------------------------
+| 1   | CNTT K47B | SV009 | Bùi Thảo Linh  | 8       | Đạt       |
+| 2   | CNTT K47B | SV006 | Hoàng Quốc Huy | 7.4     | Đạt       |
+| 3   | CNTT K47B | SV008 | Đặng Minh Khôi | 5.5     | Đạt       |
+| 4   | CNTT K47B | SV010 | Trương Văn Nam | 4.5     | Không đạt |
+| 5   | CNTT K47B | SV007 | Võ Gia Khang   | 3.9     | Không đạt |
+------------------------------------------------------------------
+Tổng số: 5 SV | Đạt: 3 | Không đạt: 2 | Điểm TB: 5.86 | Cao nhất: 8.0
+
+
